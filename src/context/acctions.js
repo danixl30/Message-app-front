@@ -1,0 +1,9 @@
+export const SET_USERNAME = 'SET_USERNAME';
+export const SET_IMAGE = 'SET_IMAGE';
+export const SET_CHATS = 'SET_CHATS';
+export const SET_GROUPS = 'SET_GROUPS';
+export const SET_USERS = 'SET_USERS';
+export const SET_SELECCTION = 'SET_SELECCTION';
+export const SET_TYPEVIEW = 'SET_TYPEVIEW';
+export const SET_INDIVIDUAL_MSG = 'SET_INDIVIDUAL_MSG'
+export const SET_GROUP_MSG = 'SET_GROUP_MSG'
